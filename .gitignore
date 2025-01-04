@@ -106,8 +106,8 @@ celerybeat.pid
 .venv
 env/
 son1/
-ENV/
-son1.bak/
+son1/
+env.bak/
 son1.bak/
 
 # Spyder project settings
